@@ -1,2 +1,2 @@
-# redirect-template
+# redirector
 Github Pages repo for redirecting subdomains.
